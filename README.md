@@ -22,7 +22,7 @@ Data source: [dataset](https://lukebarousse.com/sql)
 
 ## Tools I Used
 - **SQL:** for querying the data
-- **PostgreSQL:** [or the database you used]
+- **PostgreSQL: The database management system
 - **DBeaver:** for writing and running my queries
 - **Git and GitHub:** for sharing my work
 
