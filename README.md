@@ -7,7 +7,7 @@ It uncovers the most optimal skills to learn as a Data Enthusiast based on real 
 ## Results
 The most optimal skills were determined by developing a metric called "Skill Multiplier" that sums both the normalized demand and normalized salary of a given skill for a job title into a single metric
 
-Checkout the queries: [sql project](Queries/1_top_paying_jobs.sql)
+Checkout the queries: [sql project](Queries/)
 
 ## Background
 [Why you did the project and where the data comes from. For example: I built this project while learning SQL. The data comes from Luke Barousse's job postings dataset, which contains real job listings with titles, salaries, locations, and required skills.]
