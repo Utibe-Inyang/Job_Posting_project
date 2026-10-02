@@ -10,9 +10,10 @@ The most optimal skills were determined by developing a metric called "Skill Mul
 Checkout the queries: [sql project](Queries/)
 
 ## Background
-[Why you did the project and where the data comes from. For example: I built this project while learning SQL. The data comes from Luke Barousse's job postings dataset, which contains real job listings with titles, salaries, locations, and required skills.]
+I built this project with SQL. The data comes from Luke Barousse's job postings dataset, which contains real job listings with titles, salaries, locations, and required skills.
+Data source: [dataset](https://lukebarousse.com/sql)
 
-The questions I wanted to answer were:
+### The questions I wanted to answer were:
 1. What are the top-paying jobs?
 2. What skills do those top-paying jobs require?
 3. What are the most in-demand skills?
