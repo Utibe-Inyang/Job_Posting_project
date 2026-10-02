@@ -31,8 +31,8 @@ Each query in this repository answers one question.
 
 ### 1. Top-paying Data Analyst job
 Identify the top highest paying Data Analyst roles that are available remotely
-		 * - Focus on job postings with specified salaries (remove nulls)
-		 * - Why? Aims to highlight the top paying oppotunities for Data Analysts, offering insights into employment options and location flexibility
+Focus on job postings with specified salaries (remove nulls)
+Why? Aims to highlight the top paying oppotunities for Data Analysts, offering insights into employment options and location flexibility
 
 ### 2. Skills for top-paying jobs
 [What you found. File: 2_top_paying_job_skills.sql]
