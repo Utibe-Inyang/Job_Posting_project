@@ -75,7 +75,7 @@ inner join skills_dim on skills_job_dim.skill_id = skills_dim.skill_id
 order by salary_year_avg desc
 ```
 ### Insight: 
-Here is the breakdown of the most demanded skills for data analytics in 2023, based on job postings:
+Here is the breakdown of the most demanded skills for data analytics, based on job postings:
  * SQL leads with a count of 8
  * Python follows with 7
  * Tableau follows with 6
@@ -184,16 +184,19 @@ Here are the top skills for Data Analysts:
 - **Dashboard and reporting tools:** Tableau had 230 postings and Looker had 49. Tableau pays about $99,288 and Looker about $103,795. Turning data into clear charts and reports is a key part of the job.
 
 * Databases: Oracle, SQL Server, and NoSQL are still needed, with average pay from $97,786 to $104,534. Companies will always need people who can store, find, and manage data.
-
-## What I Learned
-- [A SQL skill you picked up, for example joins, aggregate functions, or CTEs]
-- [Something about working with real data]
-- [Something you'd do differently next time]
+  
 
 ## Insights
-- [Your biggest finding]
-- [A second finding]
-- [Your overall takeaway about which skills to learn]
+Here is what the analysis showed:
+
+- **Top-paying jobs:** Some remote data analyst jobs pay very well with highest salary being $650,000.
+- **Skills for top-paying jobs:** The best-paying jobs need strong SQL skills. This means SQL is key if you want a high salary.
+- **Most wanted skills:** SQL is also the skill employers ask for most, so Job seekers should learn it.
+- **Skills linked to higher pay:** Rare, specialized skills like SVN and Solidity have the highest average salaries. Employers pay extra for niche knowledge.
+- **Best skills to learn:** SQL is both in high demand and well paid. That makes it one of the best skills for data analysts to learn if they want to increase their value.
 
 ## Conclusion
-[2-3 sentences summing up what the project showed and what you plan to do next.]
+
+This project helped me improve my SQL skills and also taught me a lot about the data analyst job market. The results can help you decide which skills to learn first and how to focus your job search. If you want to stand out, focus on skills that are in high demand and pay well. The project also shows that you need to keep learning and keep up with new trends in data analytics.
+
+
