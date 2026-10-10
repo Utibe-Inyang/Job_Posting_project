@@ -99,6 +99,14 @@ group by skills
 order by demand_count desc 
 limit 5
 ```
+| Skills   | Demand Count |
+|----------|--------------|
+| SQL      | 7291         |
+| Excel    | 4611         |
+| Python   | 4330         |
+| Tableau  | 3745         |
+| Power BI | 2609         |
+
 Here's the breakdown of the most demanded skills for data analysts in 2023
 
 * SQL and Excel are still the fundamental and you need to be good at working with data and spreadsheets.
@@ -124,6 +132,22 @@ group by skills
 order by avg_salary desc 
 limit 20
 ```
+
+| Skills        | Average Salary ($) |
+|---------------|-------------------:|
+| pyspark       |            208,172 |
+| bitbucket     |            189,155 |
+| couchbase     |            160,515 |
+| watson        |            160,515 |
+| datarobot     |            155,486 |
+| gitlab        |            154,500 |
+| swift         |            153,750 |
+| jupyter       |            152,777 |
+| pandas        |            151,821 |
+| elasticsearch |            145,000 |
+
+*Table of the average salary for the top 10 paying skills for data analysts*
+
 
 ### INSIGHTS:
  * High Demand for big data and ML skills: Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), ML tools (DataRobot, Jupyter), and Python libraries (Panda, Numpy), reflecting the industry's high valuation of data processing and predictive modeling capabilities
@@ -175,6 +199,22 @@ order by demand_count desc,
 		 demand_count desc
 limit 25
 ```
+
+| Skill ID | Skills     | Demand Count | Average Salary ($) |
+|----------|------------|--------------|-------------------:|
+| 8        | go         | 27           |            115,320 |
+| 234      | confluence | 11           |            114,210 |
+| 97       | hadoop     | 22           |            113,193 |
+| 80       | snowflake  | 37           |            112,948 |
+| 74       | azure      | 34           |            111,225 |
+| 77       | bigquery   | 13           |            109,654 |
+| 76       | aws        | 32           |            108,317 |
+| 4        | java       | 17           |            106,906 |
+| 194      | ssis       | 12           |            106,683 |
+| 233      | jira       | 20           |            104,918 |
+
+*Table of the most optimal skills for data analyst sorted by salary*
+
 Here are the top skills for Data Analysts:
 
 - **Programming languages:** Python and R are in high demand. There were 236 job postings asking for Python and 148 for R. They pay about $101,397 (Python) and $100,499 (R) on average. These are valued skills, but many people already know them.
