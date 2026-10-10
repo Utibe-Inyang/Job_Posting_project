@@ -99,6 +99,11 @@ group by skills
 order by demand_count desc 
 limit 5
 ```
+Here's the breakdown of the most demanded skills for data analysts in 2023
+
+* SQL and Excel are still the fundamental and you need to be good at working with data and spreadsheets.
+* Tools like Python, Tableau, and Power BI are also a must, where more and more people need technical skills to tell stories with data and help others make decisions.
+
 
 ### 4. Top-paying skills
 What are the top skills based on salary?
@@ -128,8 +133,7 @@ limit 20
  * Cloud Computing Expertise: Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics
 
    
-### 5. Most optimal skills
-OPTIMAL: High demand AND high paying
+### 5. Most optimal skills (High demand AND high paying)
   * Create CTEs for 3_top_demanded_skills and 4_top_paying_skills
   * Concentrate with remote positions with specified salaries
   * Why? Targets skills that offer job security (high demand) and financial benefits (high salaries), offering strategic insights for career development in data analysis
@@ -171,6 +175,15 @@ order by demand_count desc,
 		 demand_count desc
 limit 25
 ```
+Here are the top skills for Data Analysts:
+
+- **Programming languages:** Python and R are in high demand. There were 236 job postings asking for Python and 148 for R. They pay about $101,397 (Python) and $100,499 (R) on average. These are valued skills, but many people already know them.
+
+- **Cloud tools:** Snowflake, Azure, AWS, and BigQuery are also wanted a lot, and they pay fairly well. This shows that cloud platforms and big data are becoming more important in data work.
+
+- **Dashboard and reporting tools:** Tableau had 230 postings and Looker had 49. Tableau pays about $99,288 and Looker about $103,795. Turning data into clear charts and reports is a key part of the job.
+
+* Databases: Oracle, SQL Server, and NoSQL are still needed, with average pay from $97,786 to $104,534. Companies will always need people who can store, find, and manage data.
 
 ## What I Learned
 - [A SQL skill you picked up, for example joins, aggregate functions, or CTEs]
